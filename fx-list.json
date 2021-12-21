@@ -9,27 +9,27 @@
   "tags":{
 
   },
-  "logoURI":"ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
+  "logoURI":"https://cdn.mytoken.org/Fq8v7Z5k9mgdzwj0thBBK4Pf_nrh",
   "keywords":[
     "functionx",
     "default"
   ],
   "tokens":[
     {
-      "name":"Wrapped Ether",
-      "address":"0x88A99ac744Ca5FCd40825bCe4287Fa261FF0FFC0",
-      "symbol":"WETH",
-      "decimals":18,
-      "chainId":90001,
-      "logoURI":"ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
-    },
-    {
       "name":"Wrapped FX",
       "address":"0xc5229C5199d8A306c3f7b4CA43122F684F23f6E6",
       "symbol":"WFX",
       "decimals":18,
       "chainId":90001,
-      "logoURI":"https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd0A1E359811322d97991E03f863a0C30C2cF029C/logo.png"
+      "logoURI":"https://cdn.mytoken.org/Fq8v7Z5k9mgdzwj0thBBK4Pf_nrh"
+    },
+    {
+      "name":"PUNDIX Token",
+      "address":"0xd9EEd31F5731DfC3Ca18f09B487e200F50a6343B",
+      "symbol":"PUNDIX",
+      "decimals":18,
+      "chainId":90001,
+      "logoURI":"https://cdn.mytoken.org/FoO5Nayer2Ga_S6OOcS0CDCkrLDj"
     }
   ]
 }
