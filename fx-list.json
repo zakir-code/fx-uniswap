@@ -30,6 +30,22 @@
       "decimals":18,
       "chainId":90001,
       "logoURI":"https://cdn.mytoken.org/FoO5Nayer2Ga_S6OOcS0CDCkrLDj"
+    },
+    {
+      "name":"USDT Token",
+      "address":"0x4b0064cdB5765e0b839Dcd37F8Fa054e2bdeE056",
+      "symbol":"USDT",
+      "decimals":6,
+      "chainId":90001,
+      "logoURI":"https://cdn.mytoken.org/tether.png"
+    },
+    {
+      "name":"DAI Token",
+      "address":"0xccC7C9B5F3f8a7BD85fe029896242f73781D46D5",
+      "symbol":"DAI",
+      "decimals":18,
+      "chainId":90001,
+      "logoURI":"https://cdn.mytoken.org/Flvq0lM_HJDxgZLJs6Gt_UmVo0r8"
     }
   ]
 }
