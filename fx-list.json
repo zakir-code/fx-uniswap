@@ -46,6 +46,14 @@
       "decimals":18,
       "chainId":90001,
       "logoURI":"https://cdn.mytoken.org/Flvq0lM_HJDxgZLJs6Gt_UmVo0r8"
+    },
+    {
+      "name":"USD Coin",
+      "address":"0xeC822cd1238d946Cf0f73be57359c5cAa5512a9D",
+      "symbol":"USDC",
+      "decimals":6,
+      "chainId":90001,
+      "logoURI":""
     }
   ]
 }
