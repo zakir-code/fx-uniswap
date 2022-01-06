@@ -53,7 +53,7 @@
       "symbol":"USDC",
       "decimals":6,
       "chainId":90001,
-      "logoURI":"https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png"
+      "logoURI":"https://mytoken.io/currency/usdc/821703501"
     }
   ]
 }
